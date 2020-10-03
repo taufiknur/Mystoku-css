@@ -6,8 +6,8 @@ Author: lineicons.com
 -------------------------------- */
 @font-face {
   font-family: 'LineIcons';
-  src: url('https://cdn.jsdelivr.net/gh/taufiknur/Mystoku-css@v1.0/fonts/LineIcons.eot');
-  src: url('https://cdn.jsdelivr.net/gh/taufiknur/Mystoku-css@v1.0/fonts/LineIcons.eot') format('embedded-opentype'), url('https://cdn.jsdelivr.net/gh/taufiknur/Mystoku-css@v1.0/fonts/LineIcons.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/taufiknur/Mystoku-css@v1.0/fonts/LineIcons.woff') format('woff'), url('https://cdn.jsdelivr.net/gh/taufiknur/Mystoku-css@v1.0/fonts/LineIcons.ttf') format('truetype'), url('https://cdn.jsdelivr.net/gh/taufiknur/Mystoku-css@v1.0/fonts/LineIcons.svg') format('svg');
+  src: url('https://cdn.jsdelivr.net/gh/taufiknur/Mystoku-css@v1.2/fonts/LineIcons.eot');
+  src: url('https://cdn.jsdelivr.net/gh/taufiknur/Mystoku-css@v1.2/fonts/LineIcons.eot') format('embedded-opentype'), url('https://cdn.jsdelivr.net/gh/taufiknur/Mystoku-css@v1.2/fonts/LineIcons.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/taufiknur/Mystoku-css@v1.2/fonts/LineIcons.woff') format('woff'), url('https://cdn.jsdelivr.net/gh/taufiknur/Mystoku-css@v1.2/fonts/LineIcons.ttf') format('truetype'), url('https://cdn.jsdelivr.net/gh/taufiknur/Mystoku-css@v1.2/fonts/LineIcons.svg') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap
